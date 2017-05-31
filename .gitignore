@@ -1,0 +1,5 @@
+# Ignore notebook checkpoints (you may not want to ignore these)
+/.ipynb_checkpoints/
+
+# don't commit python bytecode to the repo
+*.pyc

@@ -1,0 +1,13 @@
+name,desc,maxMobs,maxMobLvl
+Armored Car,A sturdy-looking Binks armored van sits unceremoniously perched on four mis-matched concrete blocks.  ,1,5
+Vacant Lot,An expanse of puckered asphalt with weeds errupting from the lattice of cracks in the pavement.,3,2
+Junk Yard,"An old junk yard full of sharp, rusty objects.",2,2
+Corner,There's a raucous dice game going down on this anonymous street corner.,0,0
+Street,The burnt-out cars and shuttered buildings lining this city street give it the unsettling (and accurate) feeling of a combat zone.,1,2
+Warehouse,An empty industrial warehouse full of weird equipment.,0,0
+Alley,A dark alley lined in grimy red brick.,2,3
+Basement,A single bare bulb illuminates the center of the concrete basement.  You can't make out the shadowy corners.,1,8
+Stashhouse (Interior),"Ampules, vials, bundles, baggies, and bullet casings infest this once-residential flop-house.  ",5,3
+Shady Residence,This old house looks like it might have been someone's pride and joy long ago before it became an armed compound.,5,2
+Intersection,A collapsed traffic signal is the only sign that order once ruled this intersection.,2,2
+Hackers,This place is filled with fugitive hackers looking to plug into your brain.,0,0
